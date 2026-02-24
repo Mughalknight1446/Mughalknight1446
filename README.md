@@ -73,15 +73,3 @@ I completed my Level 3 Diploma at the International Study Centre in Leeds and pr
 I am deeply passionate about Data Science and Artificial Intelligence 🤖📊. My dream is to become a skilled Data Scientist and AI expert, creating intelligent solutions that make a real difference in the world 🌍.
 
 Every step I take is guided by hope, faith, and the belief that my efforts today will shape a brighter tomorrow ❤️. I have high expectations from myself and from the future, and I am committed to working tirelessly until my hard work truly pays off 🚀✨
-
-If you'd like, I can also:
-
-🔥 Make it more professional (for recruiters)
-
-💻 Add a tech stack section with badges
-
-📊 Add GitHub stats & contribution graphs
-
-🌟 Make it more minimal and modern
-
-🧠 Make it more AI/Data Science focused
